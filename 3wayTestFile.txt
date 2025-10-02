@@ -1,1 +1,3 @@
 3-way merge test file
+---
+3-way merge test(branch)
